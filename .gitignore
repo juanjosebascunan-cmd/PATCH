@@ -1,0 +1,6 @@
+out*/
+*.mp4
+*.wav
+*.jpg
+*.png
+__pycache__/
